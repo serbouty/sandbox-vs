@@ -1,0 +1,10 @@
+# Sources
+*.c                 text diff=cpp
+
+# Configuration
+*.txt               text
+.gitattributes      text
+.gitignore          text
+
+# Documentation
+*.md                text diff=markdown

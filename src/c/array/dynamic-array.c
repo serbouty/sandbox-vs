@@ -29,7 +29,7 @@ void set(int i, int val);
 
 void pushBack(int val);
 
-void remove(int i);
+void removeElement(int i);
 
 int size();
 
@@ -69,7 +69,7 @@ void pushBack(int val)
     /* ... */
 }
 
-void remove(int i)
+void removeElement(int i)
 {
     /* ... */
 }

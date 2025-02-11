@@ -1,3 +1,7 @@
+# Binaries
+*.class
+*.exe
+
 # Visual Studio Code
 .vscode
 

@@ -4,7 +4,7 @@
 
 - [CMake 3](https://cmake.org/)
 - [GCC 14](https://gcc.gnu.org/)
-- [JDK 21](https://openjdk.org/projects/jdk/21/)
+- [OpenJDK 21](https://openjdk.org/projects/jdk/21/)
 
 ## Roadmap
 

@@ -21,9 +21,6 @@ public class For {
             if (number % divisor == 0) {
                 return false;
             }
-
-            /* Iterate through each divisor for a complete coverage. */
-            divisor++;
         }
 
         /* Every divisor beside 1 return false, the number is prime. */

@@ -1,9 +1,0 @@
-# Binaries
-*.class
-*.exe
-
-# Visual Studio Code
-.vscode
-
-# CMake Tools
-build

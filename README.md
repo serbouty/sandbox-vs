@@ -1,21 +1,4 @@
-# Data Structures
-
-## Dependencies
-
-- [CMake 3](https://cmake.org/)
-- [GCC 14](https://gcc.gnu.org/)
-- [OpenJDK 21](https://openjdk.org/projects/jdk/21/)
-
-## Roadmap
-
-- [ ] Array
-- [ ] Hash Table
-- [ ] Linked List
-- [ ] Queue
-- [ ] Stack
-- [ ] Tree
-  - [ ] Binary Tree
-  - [ ] Binary Search Tree
+# Computer Science 61B
 
 ## License
 

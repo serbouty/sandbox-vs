@@ -1,0 +1,9 @@
+# Sources
+*.java              text diff=java
+
+# Configuration
+.gitattributes      text
+.gitignore          text
+
+# Documentation
+*.md                text diff=markdown

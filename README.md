@@ -1,4 +1,4 @@
-# Data Structures
+# Algorithms 4th Edition
 
 ## License
 

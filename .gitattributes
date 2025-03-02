@@ -1,4 +1,5 @@
 # Sources
+*.c                 text diff=cpp
 *.java              text diff=java
 
 # Configuration

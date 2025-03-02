@@ -1,3 +1,5 @@
-# Intellij IDEA CE
-.idea
-algorithms-4th.iml
+# Visual Studio Code
+.vscode/
+
+# CMake Tools
+build/

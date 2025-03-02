@@ -1,28 +1,17 @@
-# Algorithms, 4th Edition
+# VS Code Sandbox
 
-## Resources
-
-- [Algorithms, 4th Edition - Official GitHub](https://github.com/kevin-wayne/algs4)
-- [Algorithms, 4th Edition - Official Website](https://algs4.cs.princeton.edu/home/)
+Testing various courses, lectures or tutorials with Visual Studio Code.
 
 ## Development
 
-- IDE: [Intellij IDEA CE](https://www.jetbrains.com.cn/en-us/edu-products/download/#section=idea)
-- JDK: [OpenJDK 21 - Eclipse Temurin](https://adoptium.net/temurin/releases/)
+Editor: [Visual Studio Code](https://code.visualstudio.com/)
 
-## Roadmap
+Extensions:
 
-Part I:
-
-- [ ] Fundamentals
-- [ ] Sorting
-- [ ] Searching
-
-Part II:
-
-- [ ] Graphs
-- [ ] Strings
-- [ ] Context
+- [C/C++](https://github.com/microsoft/vscode-cpptools)
+- [CMake Tools](https://github.com/microsoft/vscode-cmake-tools)
+- [Language Support for Java](https://github.com/redhat-developer/vscode-java)
+- [SonarQube for IDE](https://github.com/SonarSource/sonarlint-vscode)
 
 ## License
 
